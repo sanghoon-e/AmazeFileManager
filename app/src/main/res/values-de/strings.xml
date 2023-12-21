@@ -184,6 +184,7 @@
     <string name="xda_summary">Q&amp;A, Help &amp; Fehlerbehebung</string>
     <string name="circular_images">Runde Icons für Bilder und Videos verwenden</string>
     <string name="circular_icons">Runde Icons verwenden</string>
+    <string name="follow_battery_saver_title">Batteriesparmodus folgen</string>
     <string name="back_title">Zurück-Schaltfläche</string>
     <string name="back_summary">Schalte Zurück-Schaltfläche am Listenkopf ein</string>
     <string name="details">Details</string>
