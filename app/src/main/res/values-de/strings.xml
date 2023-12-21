@@ -119,6 +119,7 @@
     <string name="sort_name">Name: </string>
     <string name="lastModified">Änderungsdatum</string>
     <string name="sort_size">Größe</string>
+    <string name="sort_relevance">Relevanz</string>
     <!--ListMode-->
     <!--Folder-->
     <string name="pick_a_file">Datei auswählen</string>
