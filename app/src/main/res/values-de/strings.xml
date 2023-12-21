@@ -185,6 +185,7 @@
     <string name="circular_images">Runde Icons für Bilder und Videos verwenden</string>
     <string name="circular_icons">Runde Icons verwenden</string>
     <string name="follow_battery_saver_title">Batteriesparmodus folgen</string>
+    <string name="follow_battery_saver_desc">Wenn diese Option ausgewählt und der Batteriesparmodus aktiviert ist, ändert sich das Design in das dunkle Design</string>
     <string name="back_title">Zurück-Schaltfläche</string>
     <string name="back_summary">Schalte Zurück-Schaltfläche am Listenkopf ein</string>
     <string name="details">Details</string>
