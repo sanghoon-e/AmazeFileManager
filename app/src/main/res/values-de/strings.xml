@@ -123,6 +123,7 @@
     <!--ListMode-->
     <!--Folder-->
     <string name="pick_a_file">Datei auswählen</string>
+    <string name="pick_files">Eine oder mehrere Dateien auswählen</string>
     <string name="process_viewer">Prozessanzeige</string>
     <string name="in_safe">Nicht genügend Speicherplatz</string>
     <string name="no_file_overwrite">Keine Datei überschrieben</string>
