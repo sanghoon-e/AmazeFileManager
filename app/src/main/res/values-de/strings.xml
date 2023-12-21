@@ -81,6 +81,7 @@
     <string name="question_set_path_as_home">Möchten Sie den aktuellen Pfad als Standard für dieses Tab setzen?</string>
     <string name="directorysort">Sortierungsmodus der Verzeichnisse</string>
     <string name="sort_by">Sortieren nach</string>
+    <string name="sort_by_colon">Sortieren nach</string>
     <string name="sort_only_this">Nur diesen Ordner</string>
     <string name="theme">Thema</string>
     <string name="random">Zufälliger Skin</string>
