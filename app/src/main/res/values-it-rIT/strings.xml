@@ -187,6 +187,7 @@ I cambiamenti saranno effettivi dopo il riavvio dell\'app
     <string name="circular_images">Usa icone circolari per immagini e video</string>
     <string name="circular_icons">Usa icone circolari</string>
     <string name="follow_battery_saver_title">Segui il risparmio batteria</string>
+    <string name="follow_battery_saver_desc">Se è selezionato e la modalità risparmio batteria è attiva, l\'app userà il tema scuro.</string>
     <string name="back_title">Naviga indietro</string>
     <string name="back_summary">Abilita navigazione personalizzata in cima alle liste</string>
     <string name="details">Dettagli</string>
