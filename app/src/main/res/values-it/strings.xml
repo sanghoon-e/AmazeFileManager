@@ -81,7 +81,7 @@
     <string name="question_set_path_as_home">Vuoi impostare il percorso corrente come home per questa scheda?</string>
     <string name="directorysort">Modalità ordinamento cartelle</string>
     <string name="sort_by">Ordina per</string>
-    <string name="sort_by_colon">Ordina per</string>
+    <string name="sort_by_colon">Ordina per:</string>
     <string name="sort_only_this">Solo questa directory</string>
     <string name="theme">Tema</string>
     <string name="random">Skin casuale</string>
