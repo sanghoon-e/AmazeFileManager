@@ -123,6 +123,7 @@
     <!--ListMode-->
     <!--Folder-->
     <string name="pick_a_file">Seleziona un file</string>
+    <string name="pick_files">Scegli uno o più file</string>
     <string name="process_viewer">Visualizza processi</string>
     <string name="in_safe">Spazio insufficiente</string>
     <string name="no_file_overwrite">Nessuna sovrascrittura</string>
