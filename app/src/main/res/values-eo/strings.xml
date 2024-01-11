@@ -49,7 +49,7 @@
     <string name="save">Konservi</string>
     <string name="bookmarks_added">Legosignoj aldonita</string>
     <string name="fileexist">Jam ekzistas dosiero kun sama nomo </string>
-    <string name="name">Dosiernomo</string>
+    <string name="name">Nomo</string>
     <string name="date">Dato</string>
     <string name="location">Loko</string>
     <string name="size_capitalized">Grando</string>
@@ -147,7 +147,6 @@
     <string name="thumb_summary">Montri bildetojn de aplikaĵoj kaj bildoj</string>
     <string name="thumb">Montri bildetojn</string>
     <string name="hidden">Montri kaŝajn dosierojn kaj dosierujojn</string>
-    <string name="lastModifiedSummary">Montri daton kaj tempon kiam la dosiero estis modifita lasta fojo</string>
     <string name="lastModifiedPref">Montri lastan modifon</string>
     <string name="size_pref_summary">Montri grandon de dosiero kaj nombron de eroj en dosierujo</string>
     <string name="size_pref">Montri grandojn</string>
@@ -209,7 +208,7 @@
     <string name="text">Teksto</string>
     <string name="audio">Sono</string>
     <string name="video">Video</string>
-    <string name="other">Alia</string>
+    <string name="other">Alio</string>
     <string name="image">Bildo</string>
     <string name="contributors">Kontributistoj</string>
     <string name="save_paths">Memori dosierindikoj</string>
@@ -236,6 +235,7 @@
     <string name="needs_access_summary">Bonvolu elekti la radikdosierujon de \t</string>
     <string name="needs_access_summary1">\tpor ricevi skriba atingo pro labori </string>
     <string name="smb_connection">SMB-a konekto</string>
+    <string name="smb_server">Servila IP-a adreso</string>
     <string name="server_address">Servila IP-a adreso</string>
     <string name="username">Uzantnomo</string>
     <string name="password">Pasvorto</string>
@@ -352,9 +352,9 @@
                         <b>Serĉi IP-adreso</b>\n
                     </li>
                     <p style='margin-left: 40px'>
-                        Malfermi "Command Prompt". Enigi \'ipconfig\' kaj presi Eniga klavo. serĉi "Default Gateway" opcion
+                        Malfermi "Command Prompt". Enigi 'ipconfig' kaj presi Eniga klavo. serĉi "Default Gateway" opcion
                         malsur via retalira adaptilo por via enkursigila IP-adreso. Serĉi 
-                        \\\"IPv4 Address\\\" malsur la sama adaptila sekcio por trovi vian komputilan IP 
+                        \\"IPv4 Address\\" malsur la sama adaptila sekcio por trovi vian komputilan IP 
                         adresojn.\n\n
                     </p>
 
@@ -555,6 +555,5 @@
     <string name="scp_port">Pordo</string>
     <string name="deselect_all">Elekti neniun</string>
     <string name="got_it">Ĉu vi!</string>
-    <string name="not_found_enabled_webview">Neniu navigilo troviĝis havebla</string>
-</resources>
+    </resources>
 
