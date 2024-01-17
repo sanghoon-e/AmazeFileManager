@@ -119,6 +119,7 @@
     <string name="sort_name">Nama</string>
     <string name="lastModified">Terakhir Diubah</string>
     <string name="sort_size">Ukuran</string>
+    <string name="sort_relevance">Relevansi</string>
     <!--ListMode-->
     <!--Folder-->
     <string name="pick_a_file">Pilih berkas</string>
