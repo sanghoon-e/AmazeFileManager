@@ -123,6 +123,7 @@
     <!--ListMode-->
     <!--Folder-->
     <string name="pick_a_file">Pilih berkas</string>
+    <string name="pick_files">Pilih satu atau lebih berkas</string>
     <string name="process_viewer">Penampil Proses</string>
     <string name="in_safe">Penyimpanan tidak cukup</string>
     <string name="no_file_overwrite">Tidak Ada Berkas yang Ditimpa</string>
