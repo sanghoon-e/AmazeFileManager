@@ -783,5 +783,6 @@ Silakan gunakan Amaze versi Play Sore</string>
     <string name="not_finding_what_you_re_looking_for">Tidak menemukan apa yang Anda cari?</string>
     <string name="search_recent">Baru-baru ini</string>
     <string name="results">Hasil</string>
+    <string name="grant_notification_permission">Amaze membutuhkan izin notifikasi untuk menampilkan laju pemrosesan berkas, juga kontrol mudah untuk memulai/menghentikan server FTP.</string>
     </resources>
 
