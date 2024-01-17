@@ -185,6 +185,7 @@
     <string name="circular_images">Gunakan ikon bulat untuk gambar dan video</string>
     <string name="circular_icons">Gunakan ikon bulat</string>
     <string name="follow_battery_saver_title">Ikuti penghemat baterai</string>
+    <string name="follow_battery_saver_desc">Jika dipilih dan mode penghemat baterai diaktifkan, tema akan diubah ke tema gelap</string>
     <string name="back_title">Navigasi kembali</string>
     <string name="back_summary">Aktifkan tombol navigasi kembali khusus di atas daftar item</string>
     <string name="details">Detail</string>
