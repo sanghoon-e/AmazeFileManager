@@ -781,5 +781,6 @@ Anda hanya perlu melakukan ini sekali, sampai nanti jika Anda ingin memilih loka
 Silakan gunakan Amaze versi Play Sore</string>
     <string name="disable_player_intent_filters_summary">Nonaktifkan pemutar media bawaan Amaze dari pemilih berkas</string>
     <string name="not_finding_what_you_re_looking_for">Tidak menemukan apa yang Anda cari?</string>
+    <string name="search_recent">Baru-baru ini</string>
     </resources>
 
