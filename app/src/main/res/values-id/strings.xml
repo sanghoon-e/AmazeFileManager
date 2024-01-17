@@ -785,5 +785,6 @@ Silakan gunakan Amaze versi Play Sore</string>
     <string name="results">Hasil</string>
     <string name="grant_notification_permission">Amaze membutuhkan izin notifikasi untuk menampilkan laju pemrosesan berkas, juga kontrol mudah untuk memulai/menghentikan server FTP.</string>
     <string name="error_unsupported_or_null_uri">Tidak valid, tidak didukung, atau URI tidak tersedia</string>
+    <string name="complete_paste_warning">Silakan selesaikan tindakan tempel terlebih dahulu</string>
     </resources>
 
