@@ -779,5 +779,6 @@ Anda hanya perlu melakukan ini sekali, sampai nanti jika Anda ingin memilih loka
     <string name="free_of">\"%s\n%s bebas dari %s</string>
     <string name="cloud_error_fdroid">Amaze Cloud Plugin tidak didukung dengan versi F-Droid.
 Silakan gunakan Amaze versi Play Sore</string>
+    <string name="disable_player_intent_filters_summary">Nonaktifkan pemutar media bawaan Amaze dari pemilih berkas</string>
     </resources>
 
