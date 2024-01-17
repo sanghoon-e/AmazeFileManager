@@ -724,6 +724,7 @@ Anda hanya perlu melakukan ini sekali, sampai nanti jika Anda ingin memilih loka
     <string name="compressed_explorer_fragment_error_open_uri">Galat membuka URI \"%s\" untuk dibaca.</string>
     <string name="error_empty_archive">\"%s\" adalah arsip kosong.</string>
     <string name="error_bad_archive_without_info">\"1%s\" adalah arsip rusak</string>
+    <string name="error_bad_archive_with_info">"%s" adalah arsip rusak.\nPesan dari pengekstrak: "%s"</string>
     <string name="security_error">Berkas tidak bisa dibuka menggunakan aplikasi ini</string>
     <string name="cloud_drive_tooltip">Sambungkan Google Drive™ untuk mengelola berkas dari dalam Amaze File Manager.</string>
     <string name="signin_with_google_title">Otentikasi untuk menggunakan Google Drive™</string>
