@@ -759,6 +759,8 @@ Anda hanya perlu melakukan ini sekali, sampai nanti jika Anda ingin memilih loka
     <string name="image_viewer">Penilik Gambar Amaze</string>
     <string name="video_player">Pemutar Video Amaze</string>
     <string name="amaze_audio_player">Pemutar Musik Amaze</string>
+    <string name="pdf_viewer">Penilik Dokumen Amaze</string>
+    <string name="docx_viewer">Penilik Dokumen Amaze</string>
     <string name="share_logs">Bagikan log</string>
     <string name="share_logs_summary">Bagikan catatan log melalui surel / telegram</string>
     <string name="open_with_amaze">Buka dengan Amaze</string>
