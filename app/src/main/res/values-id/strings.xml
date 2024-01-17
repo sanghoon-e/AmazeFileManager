@@ -619,6 +619,7 @@
     <string name="create_file_suggest_txt_extension">Direkomendasikan untuk menggunakan \".txt\" sebagai ekstensi berkas.</string>
     <string name="ssh_select_pem">Pilih kunci privat untuk autentikasi</string>
     <string name="ssh_key_invalid_passphrase">Frasa sandi tidak valid.</string>
+    <string name="ssh_key_no_decoder_decrypt">Tidak ada dekoder yang valid untuk mendekripsi PEM.</string>
     <string name="encryption_fail_copy">Gagal memperbarui entri enkripsi di dalam basis data</string>
     <string name="extracted">Diekstrak</string>
     <string name="compressed">Dikompres</string>
