@@ -776,6 +776,7 @@ Anda hanya perlu melakukan ini sekali, sampai nanti jika Anda ingin memilih loka
 
     <string name="exporting_failed">Gagal mengekspor: tidak bisa menyimpan ke berkas cadangan</string>
     <string name="importing_failed">Gagal mengimpor: tidak bisa membaca berkas cadangan</string>
+    <string name="importing_completed">Selesai mengimpor</string>
     <string name="invalid_backup_file">Berkas cadangan tidak valid</string>
     <string name="free_of">\"%s\n%s bebas dari %s</string>
     <string name="cloud_error_fdroid">Amaze Cloud Plugin tidak didukung dengan versi F-Droid.
