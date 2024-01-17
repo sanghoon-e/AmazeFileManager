@@ -81,6 +81,7 @@
     <string name="question_set_path_as_home">Apakah Anda ingin mengatur jalur ini sebagai beranda untuk tab ini?</string>
     <string name="directorysort">Mode Urut Direktori</string>
     <string name="sort_by">Urutkan menurut</string>
+    <string name="sort_by_colon">Urutkan Menurut:</string>
     <string name="sort_only_this">Hanya folder ini</string>
     <string name="theme">Tema</string>
     <string name="random">Tema Acak</string>
