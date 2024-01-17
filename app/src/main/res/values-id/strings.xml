@@ -744,6 +744,9 @@ Anda hanya perlu melakukan ini sekali, sampai nanti jika Anda ingin memilih loka
     <string name="ui_summary">Atur informasi untuk ditampilkan, ubahsuai bilah samping, dan aktif/nonaktifkan preferensi UI</string>
     <string name="behavior_summary">Ubah perilaku seperti pencarian lanjutan dan apakah akan membuka file sebagai tugas baru</string>
     <string name="security_summary">Atur sandi dan enkripsi</string>
+    <string name="backup_summary">Ekspor/Impor pengaturan Amaze</string>
+
+    <string name="pref_export">Ekspor</string>
     <string name="quick_desc">Berkas baru saja diakses melalui Amaze</string>
     <string name="recent_desc">Berkas yang baru dibuat atau diubah</string>
     <string name="error_cannot_find_way_open">Tidak menemukan cara untuk membuka berkas</string>
