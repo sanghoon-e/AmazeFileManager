@@ -459,6 +459,7 @@
     <string name="download">dānlod</string>
     <string name="share_logs">yakrasuvi gozārešā</string>
     <string name="open_with_amaze">gušiďên vā ameyz</string>
+    <string name="confirmation">taidiya</string>
     <string name="unavailable">mên dasras nî</string>
 
     <string name="free_of">\"%s\n%s āzāď zê %s</string>
