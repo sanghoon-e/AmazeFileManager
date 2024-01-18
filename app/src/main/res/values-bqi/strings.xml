@@ -451,6 +451,7 @@
     <string name="error_report_title">gozāreš xatā</string>
     <string name="cannot_delete_file">pāk kerdên fāyl momken nî</string>
     <string name="cannot_delete_file_with_reason">pāk kerdên fāyl momken nî - %s</string>
+    <string name="cannot_rename_file">ālêšte nome fāyl momken nî %s - %s</string>
     <string name="just_once">têynā si ya kêrat</string>
     <string name="always">hamiša</string>
     <string name="clear_open_file">roftêne kaš</string>
