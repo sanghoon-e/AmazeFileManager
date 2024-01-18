@@ -449,6 +449,7 @@
     <string name="error_details_headline">juziyāt:</string>
     <string name="app_ui_crash">barnoma / rābete mentori xarāv êbu</string>
     <string name="error_report_title">gozāreš xatā</string>
+    <string name="cannot_delete_file">pāk kerdên fāyl momken nî</string>
     <string name="just_once">têynā si ya kêrat</string>
     <string name="always">hamiša</string>
     <string name="clear_open_file">roftêne kaš</string>
