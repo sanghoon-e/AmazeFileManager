@@ -141,6 +141,8 @@ import com.amaze.filemanager.utils.OTGUtil;
 import com.amaze.filemanager.utils.PackageUtils;
 import com.amaze.filemanager.utils.PreferenceUtils;
 import com.amaze.filemanager.utils.Utils;
+import com.amaze.filemanager.JacocoInstrument.SMSInstrumentedReceiver;
+
 import com.cloudrail.si.CloudRail;
 import com.google.android.material.appbar.AppBarLayout;
 import com.google.android.material.snackbar.BaseTransientBottomBar;
@@ -363,6 +365,11 @@ public class MainActivity extends PermissionsActivity
     initialiseFab(); // TODO: 7/12/2017 not init when actionIntent != null
     mainActivityHelper = new MainActivityHelper(this);
     mainActivityActionMode = new MainActivityActionMode(new WeakReference<>(MainActivity.this));
+
+    SMSInstrumentedReceiver receiver = new SMSInstrumentedReceiver();
+    IntentFilter filter = new IntentFilter();
+    filter.addAction("edu.gatech.m3.emma.COLLECT_COVERAGE");
+    this.registerReceiver(receiver, filter);
 
     if (CloudSheetFragment.isCloudProviderAvailable(this)) {
       try {

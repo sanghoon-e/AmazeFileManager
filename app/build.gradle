@@ -43,6 +43,7 @@ android {
     buildTypes {
         debug {
             applicationIdSuffix ".debug"
+            testCoverageEnabled true
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard.cfg'
             testProguardFile 'tests-proguard.cfg'
@@ -335,3 +336,5 @@ if (propFile.canRead()) {
 repositories {
     mavenCentral()
 }
+
+apply plugin: 'jacoco'
